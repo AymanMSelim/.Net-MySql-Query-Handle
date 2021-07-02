@@ -1,0 +1,10 @@
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\obj\Debug\EasyMySQL.csprojAssemblyReference.cache
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\obj\Debug\EasyMySQL.csproj.CoreCompileInputs.cache
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\bin\Debug\EasyMySQL.dll
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\bin\Debug\EasyMySQL.pdb
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\bin\Debug\MySql.Data.dll
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\bin\Debug\MySql.Data.xml
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\obj\Debug\EasyMySQL.csproj.CopyComplete
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\obj\Debug\EasyMySQL.dll
+C:\Users\Ayman Selim\source\repos\EasyMySQL\EasyMySQL\obj\Debug\EasyMySQL.pdb
